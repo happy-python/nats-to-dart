@@ -1,0 +1,6 @@
+.dart_tool
+pubspec.lock
+.packages
+test/go.sum
+build/
+doc/api/

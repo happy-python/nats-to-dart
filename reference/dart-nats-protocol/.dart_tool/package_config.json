@@ -1,0 +1,19 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "nuid",
+      "rootUri": "file:///Users/jack/.pub-cache/hosted/pub.flutter-io.cn/nuid-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "nats_protocol",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2021-02-23T06:35:57.598309Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.3"
+}
